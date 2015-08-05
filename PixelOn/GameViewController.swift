@@ -30,6 +30,9 @@ class GameViewController: UIViewController {
         }
     }
 
+    @IBAction func buyUpgradeAction(sender: UIButton) {
+    }
+    
     override func shouldAutorotate() -> Bool {
         return true
     }
